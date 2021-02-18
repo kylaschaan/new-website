@@ -1,6 +1,4 @@
-
-* {
-  box-sizing: border-box;
+* {box-sizing: border-box;
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -8,7 +6,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-s
   overflow: hidden;
   margin: 0;
 }
